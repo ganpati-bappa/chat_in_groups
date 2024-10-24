@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665640994156",
+    "project_id": "chatingroups-dcb9d",
+    "storage_bucket": "chatingroups-dcb9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665640994156:android:c70bb70bd4f8121473df49",
+        "android_client_info": {
+          "package_name": "com.ajay.chatInGroups"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqbnI-tKxDK5hU039J97seSo46qawvB-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
