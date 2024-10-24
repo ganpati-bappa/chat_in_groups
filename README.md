@@ -1,4 +1,4 @@
-# chat_in_groups
+# Chat In Groups (APS Online Academy)
 
 A new Flutter project.
 
